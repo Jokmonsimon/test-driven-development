@@ -1,0 +1,20 @@
+{
+  "name": "test-driven-development",
+  "version": "1.0.0",
+  "description": "## Learn the test-driven development (TDD) process by creating a series of tests and developing the JavaScript code that passes the tests.",
+  "main": "tdd/tdd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon tdd/tdd.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jokmonsimon/test-driven-development.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jokmonsimon/test-driven-development/issues"
+  },
+  "homepage": "https://github.com/Jokmonsimon/test-driven-development#readme"
+}
